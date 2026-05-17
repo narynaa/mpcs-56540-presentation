@@ -1,0 +1,8 @@
+pandas
+numpy==1.26.4
+scikit-learn
+fairlearn
+evidently==0.4.20
+matplotlib
+jupyter
+notebook
